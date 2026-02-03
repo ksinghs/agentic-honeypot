@@ -203,11 +203,5 @@ Please follow ethical AI and security guidelines.
 
 This project is licensed under the MIT License.
 
-👤 Author
-
-Kundan Singh
-AI • Data • Security • Agentic Systems
-<<<<<<< HEAD
-=======
-
->>>>>>> b81c7947d3580e8dddddce2d4f8ed35573338a58
+👤 Author Kundan Singh
+AI • Data • Security • Agentic System
